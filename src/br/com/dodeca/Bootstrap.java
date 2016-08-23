@@ -1,4 +1,6 @@
-package br.com.dodeca.view;
+package br.com.dodeca;
+
+import br.com.dodeca.view.Menu;
 
 /**
  * Classe Menu
