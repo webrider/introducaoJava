@@ -1,21 +1,20 @@
-package Principal;
+package br.com.dodeca.view;
 
 /**
- * Classe Principal do sistema
+ * Classe Menu
  *
  * @author Ríder Cantuária <cantuaria@edu.univali.br>
  * @version beta
  * @since 08/2016
  */
-public class Principal {
-
+public class Bootstrap {
+    
     /**
-     * Main Java 
-     * 
-     * @param args
+     * Bootstrap
+     * @param args 
      */
     public static void main(String[] args) {
-        System.out.println("Primeiro Códigos");
+        Menu.exibirMenu();
     }
-
+     
 }
